@@ -19,3 +19,7 @@ coh2.txt : Reshade Config File
 * QUIT GAME AND THEN OPEN DXGI.ini IN NOTEPAD
 * MAKE SURE PresetFiles=(YOUR GAME FOLDER NAME)\(ANYTHING).ini
 * DONE...
+
+# Source
+
+https://sfx.thelazy.net/games/preset/7146/
